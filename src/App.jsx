@@ -14,7 +14,7 @@ const defaultWorkspaces = [
 ];
 
 const initialAnalysts = [
-  { id: "sarah", name: "Research workspace", analyst: "Sarah Chen", role: "Lead Intelligence Analyst", initials: "S", tier: "Analyst tier", email: "sarah.chen@signalatlas.ai" },
+  { id: "deep", name: "Research workspace", analyst: "Deep", role: "Lead Intelligence Analyst", initials: "D", tier: "Analyst tier", email: "deep@signalatlas.ai" },
   { id: "david", name: "Quantitative Alpha", analyst: "David Kim", role: "Senior Quant Strategist", initials: "D", tier: "Enterprise tier", email: "d.kim@signalatlas.ai" },
   { id: "alex", name: "Strategic Advisory", analyst: "Alex Rivera", role: "Partner · Emerging Tech", initials: "A", tier: "Executive tier", email: "a.rivera@signalatlas.ai" }
 ];
